@@ -1,3 +1,4 @@
+#A simple java calculator by Ali Ashrar
 import java.util.Scanner;
 
 class Main {
